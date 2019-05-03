@@ -9,4 +9,4 @@ Prístup k API serveru OpenWeatherMap a teda aj korektné spustenie klienta sie�
 Program nie je potrebné prekladať a je možné ho priamo spustiť postupom popísaným v sekcií 4.
 # Spustenie
 Spustenie klienta je realizované príkazom make run a je teda potrebné aby adresár obsahoval súbory Makefile a xkruty00.py. Na vstupe sú očakávané dva argumenty, prvým je API kľúč, druhým názov mesta. Príklad spustenia:\
-    $ make run api_key=<API kluc> city=<Mesto>
+    ***`$ make run api_key=\<API kluc\> city=\<Mesto\>`***
