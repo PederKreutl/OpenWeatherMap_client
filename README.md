@@ -8,5 +8,5 @@ Ako prvé bolo potrebné spracovať užívateľský vstup, čo som riešil s pom
 Prístup k API serveru OpenWeatherMap a teda aj korektné spustenie klienta sieťovej aplikácie vyžaduje vlastníctvo licenčného kľúča. Kľúč je možné získať po bezplatnej registrácii na webovej stránke služby OpenWeatherMap.\
 Program nie je potrebné prekladať a je možné ho priamo spustiť postupom popísaným v sekcií 4.
 # Spustenie
-Spustenie klienta je realizované príkazom make run a je teda potrebné aby adresár obsahoval súbory Makefile a xkruty00.py. Na vstupe sú očakávané dva argumenty, prvým je API kľúč, druhým názov mesta. Príklad spustenia:\
-    ***`$ make run api_key=\<API kluc\> city=\<Mesto\>`***
+Spustenie klienta je realizované príkazom make run a je teda potrebné aby adresár obsahoval súbory Makefile a xkruty00.py. Na vstupe sú očakávané dva argumenty, prvým je API kľúč, druhým názov mesta.\ Príklad spustenia:\
+    ***`$ make run api_key=<API kluc> city=<Mesto>`***
